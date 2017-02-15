@@ -1,0 +1,38 @@
+{
+  "name": "VerveWireless/verve-bootstrap-sass",
+  "version": "3.3.3",
+  "homepage": "https://github.com/VerveWireless/verve-bootstrap-sass",
+  "authors": [
+    "Myron Robertson",
+    "Grace Blackburn"
+  ],
+  "description": "verve-bootstrap-sass is a fork of the bootstrap sass for Verve Wireless.",
+  "main": [
+    "assets/stylesheets/_bootstrap.scss",
+    "assets/fonts/bootstrap/glyphicons-halflings-regular.eot",
+    "assets/fonts/bootstrap/glyphicons-halflings-regular.svg",
+    "assets/fonts/bootstrap/glyphicons-halflings-regular.ttf",
+    "assets/fonts/bootstrap/glyphicons-halflings-regular.woff",
+    "assets/fonts/bootstrap/glyphicons-halflings-regular.woff2",
+    "assets/javascripts/bootstrap.js"
+  ],
+  "keywords": [
+    "twbs",
+    "bootstrap",
+    "sass"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "lib",
+    "tasks",
+    "templates",
+    "test",
+    "*.gemspec",
+    "Rakefile",
+    "Gemfile"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.0"
+  }
+}

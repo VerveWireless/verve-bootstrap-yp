@@ -1,0 +1,28 @@
+{
+  "name": "verve-bootstrap-sass",
+  "version": "3.3.3",
+  "description": "verve-bootstrap-sass is a fork of the bootstrap sass project for Verve Wireless",
+  "main": "assets/javascripts/bootstrap.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VerveWireless/verve-bootstrap-sass"
+  },
+  "keywords": [
+    "bootstrap",
+    "sass",
+    "css"
+  ],
+  "contributors": [
+    "Myron Robertson",
+    "Grace Blackborne"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VerveWireless/verve-bootstrap-sass/issues"
+  },
+  "devDependencies": {
+    "node-sass": "~1.0",
+    "mincer": "~1.1",
+    "ejs": "~1.0"
+  }
+}

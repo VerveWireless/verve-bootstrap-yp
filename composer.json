@@ -1,0 +1,23 @@
+{
+    "name": "VerveWireless/verve-bootstrap-sass",
+    "description": "verve-bootstrap-sass is a fork of bootstrap-sass for Verve Wireless.",
+    "keywords": ["bootstrap", "css", "sass"],
+    "homepage": "https://github.com/VerveWireless/verve-bootstrap-sass",
+    "authors": [
+        {
+            "name": "Myron Robertson"
+        },
+        {
+            "name": "Grace Blackburn"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/VerveWireless/verve-bootstrap-sass/issues"
+    },
+    "license": "MIT",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.3.x-dev"
+        }
+    }
+}
